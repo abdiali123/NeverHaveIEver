@@ -1,0 +1,698 @@
+<resources>
+    <string name="app_name">Never Have I Ever</string>
+    <string name="welcome">Welcome!</string>
+    <string name="description">“Never have I ever…” is a great game for getting to know people. But it’s not just for getting to know people you’ve just met. It’s also great with friends you think you know well. You can really learn some embarrassing and interesting things about people you thought you knew well. All you have to do is press the start button when you are ready!</string>
+    <string name="next">START</string>
+    <string name="game_text">Never Have I Ever</string>
+    <string name="next_button">NEXT</string>
+    <string name="quit_button">QUIT</string>
+    <string name="start_text">Press next to display questions.</string>
+
+    <string-array name="questions">
+        <item>Given a lap dance.</item>
+        <item>Received a lap dance.</item>
+        <item>Took pictures in my underwear.</item>
+        <item>Never have I ever taken a sexy selfie.</item>
+        <item>Tried skinny dipping.</item>
+        <item>Had a one night stand.</item>
+        <item>Kiss and told.</item>
+        <item>Kissed someone of the opposite sex.</item>
+        <item>Accidentally sent an inappropriate text message to my mom that was intended for my girlfriend/boyfriend.</item>
+        <item>Sent someone a naughty pic.</item>
+        <item>Had sex in public.</item>
+        <item>Kissed my best friend.</item>
+        <item>Rainbow kissed.</item>
+        <item>Never have I ever sunbathed partially or totally nude.</item>
+        <item>Slept nude.</item>
+        <item>Made out with a stranger.</item>
+        <item>Left my house without underwear.</item>
+        <item>Accidentally sent an inappropriate email to my boss.</item>
+        <item>Had a friend with benefits.</item>
+        <item>Never have I ever done the walk of shame.</item>
+        <item>Made love with someone from university.</item>
+        <item>Done it in the sea.</item>
+        <item>Had sex in a sleeping bag.</item>
+        <item>Lied about myself to get laid.</item>
+        <item>Made out with someone in a hot tub.</item>
+        <item>Had sex with someone 10 years older than me.</item>
+        <item>Worn someone else’s underwear.</item>
+        <item>Kissed a stranger.</item>
+        <item>Watched porn.</item>
+        <item>Been in handcuffs and not because of breaking the law.</item>
+        <item>Shaved my partner’s pubic hair.</item>
+        <item>Eaten food off of someone’s naked body.</item>
+        <item>Played strip poker.</item>
+        <item>Been a friend with benefits.</item>
+        <item>Had sex with someone 5 years younger than me.</item>
+        <item>Flashed someone.</item>
+        <item>Been caught having sex.</item>
+        <item>Watched a friend (do it).</item>
+        <item>Never have I ever done body shots.</item>
+        <item>Gone commando.</item>
+        <item>Been playful with whipped cream.</item>
+        <item>Asked someone to send nudes.</item>
+        <item>Had a threesome.</item>
+        <item>Had sex with someone the same day as meeting them.</item>
+        <item>Done it while a family member was in the same room.</item>
+        <item>Been locked outside naked.</item>
+        <item>Worn clothes to hide a hickey.</item>
+        <item>Winked or whistled at someone.</item>
+        <item>Slept with someone from my workplace.</item>
+        <item>Role played.</item>
+        <item>Been caught looking at something naughty.</item>
+        <item>Dated two people at the same time.</item>
+        <item>Touched myself to a Youtube video.</item>
+        <item>Been approached by a hooker.</item>
+        <item>Looked at naughty pictures.</item>
+        <item>Said the wrong name during sex.</item>
+        <item>Sexted the wrong person.</item>
+        <item>Had to use lubrication.</item>
+        <item>Had sex in a pool.</item>
+        <item>Seen someone else naked in person.</item>
+        <item>Fantasized about someone in this room.</item>
+        <item>Had a one night stand unprotected.</item>
+        <item>Made out with someone of the same sex.</item>
+        <item>Questioned my sexuality.</item>
+        <item>Never have I ever had to fake an orgasm.</item>
+        <item>Gotten poison ivy from having sex in nature.</item>
+        <item>Been to an adult store.</item>
+        <item>Had sex in a bathroom stall.</item>
+        <item>Flirted with a teacher.</item>
+        <item>Kissed someone without knowing their name.</item>
+        <item>Never have I ever squirted.</item>
+        <item>Had phone sex.</item>
+        <item>Passed second base.</item>
+        <item>Had more than 10 sexual partners.</item>
+        <item>Been to a nude beach.</item>
+        <item>Slipped my number to a waiter.</item>
+        <item>Flashed a bartender for a free drink.</item>
+        <item>Done it on my period.</item>
+        <item>Fooled around with someone on the beach.</item>
+        <item>Peeked at someone in the shower.</item>
+        <item>Used sex toys.</item>
+        <item>Played Dirty Truth or Dare.</item>
+        <item>Had a sexy dream about a celebrity.</item>
+        <item>Licked food off someone.</item>
+        <item>Paid someone for sex.</item>
+        <item>Had a bedroom injury.</item>
+        <item>Had sex with someone in this room.</item>
+        <item>Taken a shower selfie.</item>
+        <item>Sunbathed topless.</item>
+        <item>Done it on a kitchen counter.</item>
+        <item>Had sex on a pool table.</item>
+        <item>Had a full-body massage.</item>
+        <item>Given oral sex in a public place.</item>
+        <item>Received oral sex in a public place.</item>
+        <item>Been shy in the bedroom.</item>
+        <item>Been with someone 10 inches or longer.</item>
+        <item>Sucked on a toe.</item>
+        <item>Made any naughty videos.</item>
+        <item>Showered with the same sex.</item>
+        <item>Gone in public without a bra.</item>
+        <item>Made out with someone in public.</item>
+        <item>Adjusted my buttons based on who’s in the room.</item>
+        <item>Slept with someone within an hour of meeting them.</item>
+        <item>Had sex standing up.</item>
+        <item>Peeked at someone else while they were changing.</item>
+        <item>Made out with someone on a pool table.</item>
+        <item>Fooled around in a car and accidentally honked the horn.</item>
+        <item>Been to strip club.</item>
+        <item>Owned a Kama Sutra book.</item>
+        <item>Performed a striptease for someone.</item>
+        <item>Done it with someone more than twice my age.</item>
+        <item>Made out while I was drunk/high.</item>
+        <item>Tried a flavored condom.</item>
+        <item>Worn lingerie.</item>
+        <item>Been choked.</item>
+        <item>Had sex in a tent.</item>
+        <item>Had sex on a first date.</item>
+        <item>Had sex in a jacuzzi.</item>
+        <item>Purchased a pleasuring toy.</item>
+        <item>Attended a swingers party.</item>
+        <item>Ran into someone you know at an adult store.</item>
+        <item>Had a dirty crush on somebody in this circle.</item>
+        <item>Been too tired to have sex.</item>
+        <item>Passed out from suffocation during erotic play.</item>
+        <item>Had nude photos posted online.</item>
+        <item>Used a sock.</item>
+        <item>Been involved in an orgy.</item>
+        <item>Played with a partner’s body more than my own.</item>
+        <item>Worked in a brothel.</item>
+        <item>Fell asleep during sex.</item>
+        1.	Watched the Ghostbusters remake.
+        2.	Eaten food that fell on the floor.
+        3.	Wanted to be one of the Kardashians.
+        4.	Made dumb faces at myself in the bathroom mirror.
+        5.	Dressed as the opposite sex.
+        6.	Tried to see how many marshmallows can fit into my mouth.
+        7.	Watched Spongebob Squarepants.
+        8.	Stayed up for more than 24 hours.
+        9.	Cried during a Pixar movie. (Darn you, Bing Bong!)
+        10.	Had a crush, or man crush, on Ron Swanson.
+        11.	Dropped my phone in the toilet.
+        12.	“Cleaned up” by piling everything into a closet.
+        13.	Sung karaoke.
+        14.	Chugged a beer in less than 10 seconds.
+        15.	Watched the “Gangnam Style” music video.
+        16.	Had a crush on someone from “Full House.”
+        17.	Dyed my hair and had it turn out terribly.
+        18.	Watched an episode of “Gilmore Girls”.
+        19.	Pretended to know a stranger.
+        20.	Sang a Justin Bieber song in the shower.
+        21.	Worn sleepwear as if it were outerwear.
+        22.	Said “excuse me” when there was no one around.
+        23.	Never have I ever been kicked out of a bar.
+        24.	Scared myself in a mirror.
+        25.	Missed a high five.
+        26.	Gotten a tattoo I regret.
+        27.	Heard someone else doing it.
+        28.	Sang any song in the shower.
+        29.	Sang terrible karaoke while drunk.
+        30.	Blamed farts on an animal.
+        31.	Secretly wished I were a wizard at Hogwarts.
+        32.	Ruined someone else’s vacation.
+        33.	Slept in regular clothing.
+        34.	Stalked someone I just met on social media.
+        35.	Had a nightmare about zombies chasing me.
+        36.	Jumped from a roof.
+        37.	Danced in an elevator.
+        38.	Pretended to laugh at a joke I didn’t get.
+        39.	Been scared of clowns.
+        40.	Taken part in a talent show.
+        41.	Thought a cartoon character was hot.
+        42.	Faked being sick so I could play video games.
+        43.	Thrown up on a roller coaster.
+        44.	Liked Star Wars more than Star Trek.
+        45.	Tried out to be an extra in a movie.
+        46.	Dyed my hair a crazy color.
+        47.	Scored over 100 while bowling.
+        48.	Used an Instant Pot.
+        49.	Had someone slap me across the face.
+        50.	Played Candy Crush.
+        51.	Won a game of Scrabble.
+        52.	Never have I ever watched Game Of Thrones.
+        53.	Thrown something into a TV or computer screen.
+        54.	Made a duck face when taking a selfie.
+        55.	Set my or someone else’s hair on fire on purpose.
+        56.	Looked out the car’s passenger seat window and imagined it was a scene from a music video.
+        57.	Actually laughed out loud when typing “LOL.”
+        58.	Had a bad fall because I was walking and texting.
+        59.	Reread an email immediately after sending it.
+        60.	Daydreamed about being on a talk show and what I’d talk about.
+        61.	Been in an embarrassing video that was uploaded to YouTube.
+        62.	Googled my own name to see what comes up.
+        63.	Pretended I was running from zombies while on a run.
+        64.	Fallen down in public because I was drunk.
+        65.	Sat in the shower.
+        66.	Tried something I saw on Pinterest.
+        67.	Wet my pants in public.
+        68.	Ugly cried for no reason.
+        69.	Made a prank phone call.
+        70.	Went to the wrong house when I was drunk.
+        71.	Grabbed the wrong person’s hand.
+        72.	Screamed during a scary movie.
+        73.	Posted something on social media while drunk.
+        74.	Had a hangover so bad I wanted someone to shoot me.
+        75.	Lied to my parents about being hung over.
+        76.	Spent a night in the “drunk tank.”
+        77.	Woken up drunk the next day.
+        78.	Gotten drunk to make someone look better.
+        79.	Drank so much I didn’t remember the entire night.
+        80.	Had soda come out my nose.
+        1.	Cheated on a test.
+        2.	Been called to the Principal’s office.
+        3.	Cried watching Homeward Bound.
+        4.	Broken a bone in my body.
+        5.	Licked a frozen pole.
+        6.	Copied from someone else’s paper.
+        7.	Had gum in my hair.
+        8.	Stolen food from someone’s lunch tray.
+        9.	Taken a horrible picture on picture day.
+        10.	Participated in a school musical.
+        11.	Never have I ever been a bully.
+        12.	Taken something from my sibling without them knowing.
+        13.	Wanted to be a superhero.
+        14.	Cried because I didn’t get the gift I wanted.
+        15.	Been scared of the dark.
+        16.	Done something just because my parents told me not to.
+        17.	Had trouble sleeping after watching a scary movie.
+        18.	Lost my house key.
+        19.	Stayed up all night.
+        20.	Seen a cassette tape.
+        21.	Been to a sleepover.
+        22.	Failed a class.
+        23.	Had a birthday party.
+        24.	Told on a friend.
+        25.	Cried at school.
+        26.	Drank an entire case of coke by myself in one day.
+        27.	Sang on a stage.
+        28.	Faked having to use the bathroom to get out of a boring class.
+        29.	Performed in a talent show.
+        30.	Gotten in trouble for texting in class.
+        31.	Killed ants with a magnifying glass.
+        32.	Eaten an entire pint of ice cream by myself in one sitting.
+        33.	Never have I ever dropped Mentos into Coke or Pepsi.
+        34.	Been bungee jumping.
+        35.	Eaten something on a dare.
+        36.	Been nature camping in a tent.
+        37.	Used the excuse “my dog ate my homework.”
+        38.	Made a snow angel.
+        39.	Sucked my thumb.
+        40.	Jumped into the water from a boat.
+        41.	Believed my toys had feelings.
+        42.	Drank milk right from the carton.
+        43.	Watched Blue’s Clues.
+        44.	Dipped my finger into the peanut butter jar then put it back on the shelf.
+        45.	Been terrified of a theme park ride.
+        46.	Forged my parent’s signature.
+        47.	Been to a haunted house.
+        48.	Cheated on a board game.
+        49.	Dressed up as a zombie for Halloween.
+        50.	Played a prank on a teacher.
+        51.	Done an Easter Egg Hunt.
+        52.	Had a crush on a teacher.
+        53.	Built a fort with blankets.
+        54.	Jumped off a diving board.
+        55.	Fallen off a bike.
+        56.	Taken a trip on a train.
+        57.	Played video games all day.
+        58.	Stolen money from a sibling’s piggy bank.
+        59.	Wished I had bunk beds.
+        60.	Found money and put it in my pocket without finding the owner.
+        61.	Never have I ever played Pokemon.
+        62.	Gone to summer camp.
+        63.	Been on a family road trip.
+        64.	Eaten my boogers.
+        65.	Named a stuffed animal.
+        66.	Told a secret I was supposed to keep.
+        67.	Used training wheels.
+        68.	Looked through my teacher’s desk.
+        69.	Eaten only candy for dinner.
+        70.	Told my mom I was going to a “PG” movie but snuck into the “R” movie instead.
+        71.	Stayed in character all day.
+        72.	“Ding, dong, ditched.”
+        73.	Lied about being related to someone on TV.
+        74.	Prank-called a restaurant.
+        75.	Written notes on the desk to use during a test.
+        76.	Climbed a tree.
+        77.	Tried to sign a permission slip for my parents.
+        78.	Blamed a friend for something I did.
+        79.	Stolen a friend’s story and pretend it happened to me.
+        80.	Fallen up the stairs in public.
+        81.	Thrown something out of the school bus window.
+        82.	Fed my dinner to the dog when mom wasn’t looking.
+        83.	Lied about staying after school and went somewhere else.
+        84.	Sold my lunch to a classmate.
+        85.	Hopped seats on the school bus.
+        86.	Touched a horse.
+        87.	Been afraid of ghosts.
+        88.	Had food poisoning.
+        89.	Helped build a campfire.
+        90.	Read my sibling’s diary.
+        91.	Put a worm on a hook.
+        92.	Swallowed my gum.
+        93.	Swam in the ocean.
+        94.	Practiced kissing on a mirror.
+        95.	Picked flowers from a neighbor’s garden.
+        96.	Been kissed.
+        97.	Made up an excuse to the teacher for not doing my homework.
+        98.	Accidentally said a bad word in front of my parents.
+        99.	Held a baby.
+        100.	Gotten into bed with my parents after a bad dream.
+        101.	Gone to school all day with my shirt inside out and didn’t know it.
+        102.	Gotten a present I didn’t like.
+        103.	Used my sleeve to wipe my snot.
+        104.	Gotten my hair cut without asking mom first.
+        105.	Gotten into a fight on the school bus.
+        106.	Gotten in trouble for talking in class.
+        107.	Went to Disney World.
+        108.	Called my teacher mom.
+        109.	Gotten in trouble for being with someone I wasn’t supposed to be with.
+        110.	Walked through the neighborhood in my socks.
+        111.	Fallen in public.
+        112.	Gone to school without brushing my teeth.
+        113.	Been to a haunted house.
+        114.	Broken something of my mom’s and not told her.
+        115.	Fallen asleep in school.
+        116.	Pretended not to see the dog poop in the house so I wouldn’t have to clean it up.
+        117.	Made a homemade pizza.
+        118.	Waited until it was almost time for mom to come home before doing my chores.
+        119.	Cried when the doctor gave me a shot.
+        120.	Had a conversation with an animal.
+        121.	Cried to get what I want.
+        122.	Stayed up all night playing a video game.
+        123.	Spilled my drink in a restaurant.
+        124.	Stayed up all night doing a school project at the last minute.
+        125.	Changed a baby’s dirty diaper.
+        126.	Taken something from a parent without them knowing and then I lost it.
+        127.	Driven a car.
+        128.	Saved all my lunch money to buy something.
+        129.	Been grounded.
+        130.	Eaten the dog’s treats.
+        131.	Stayed all night in a hospital.
+        132.	Gone swimming in the bathtub.
+        133.	Been afraid to tell my parents something.
+        134.	Gotten hit with a baseball.
+        135.	Tried to run away from home.
+        136.	Drawn on myself.
+        137.	Picked food off the floor and ate it.
+        138.	Been in a tree house.
+        139.	Slept all night in the backyard.
+        140.	Played miniature golf.
+        1.	Disliked the opinion of others.
+        2.	Said a bad word.
+        3.	Accidentally spelled my own name wrong.
+        4.	Cried in public.
+        5.	Been on Facebook.
+        6.	Skipped class.
+        7.	Spoken to my crush.
+        8.	Eaten alligator.
+        9.	Had a boyfriend or girlfriend.
+        10.	Sung karaoke.
+        11.	Shaved my legs.
+        12.	Finished a Sudoku puzzle.
+        13.	Watched an R-rated movie.
+        14.	Lied to a friend to avoid a greater evil.
+        15.	Been out of state.
+        16.	Stolen money from my father’s wallet.
+        17.	Practiced kissing on my hand.
+        18.	Taken alcohol without the consent of my parents.
+        19.	Played Spin the Bottle.
+        20.	Faked fever to skip school.
+        21.	Met someone famous.
+        22.	Bet on something.
+        23.	Flown in a plane.
+        24.	Worn a costume to school.
+        25.	Played poker.
+        26.	Put candy on pizza.
+        27.	Chatted with a stranger online.
+        28.	Never have I ever had surgery.
+        29.	Been behind the wheel of a car.
+        30.	Hidden some important information from the person who should know.
+        31.	Seen a picture of someone naked.
+        32.	Given money to a homeless person.
+        33.	Had a smartphone.
+        34.	Seen a dirty magazine.
+        35.	Stayed up all night.
+        36.	Worn a padded bra.
+        37.	Seen Titanic.
+        38.	Broken a bone playing sports.
+        39.	Misplaced a valuable possession of mine.
+        40.	Been jealous of my friends.
+        41.	Traveled by plane.
+        42.	Cried in the school bathroom.
+        43.	Tried to repeat an action scene in the house.
+        44.	Wished I was the opposite sex.
+        45.	Gotten a fake ID taken away from me by the police.
+        46.	Sangin the shower.
+        47.	Embarrassed myself in front of my crush.
+        48.	Lied about my age.
+        49.	Tried to look like a celebrity.
+        50.	Drunk Surge.
+        51.	Asked a friend to let my crush know I liked them.
+        52.	Been late to class.
+        53.	Been to a school dance.
+        54.	Lied in this game.
+        55.	Did something super embarrassing in class.
+        56.	Secretly eaten baby food.
+        57.	Tried to sit next to my crush in class.
+        58.	Recorded video of myself singing in my room.
+        59.	Been French-kissed.
+        60.	Escaped from class.
+        61.	Used Snapchat.
+        62.	Wanted to be reborn as a dog.
+        63.	Recorded video of pulling a prank on someone.
+        64.	Been intoxicated while driving.
+        65.	Wanted to try out for a TV talent show.
+        66.	Laughed so hard that I peed in my pants.
+        67.	Spent time in detention.
+        68.	Pretended to have a boyfriend or girlfriend.
+        69.	Dated someone in college.
+        70.	Failed a driving test.
+        71.	Been to a real concert.
+        72.	Bought a designer pair of shoes.
+        73.	Never have I ever snuck out of the house.
+        74.	Fall in love with anyone online.
+        75.	Liked a friend’s boyfriend/girlfriend.
+        76.	Really liked a song by Justin Bieber.
+        77.	Forgotten about a friend’s birthday.
+        78.	Pretended to be a college student.
+        79.	Kissed someone under the bleachers.
+        80.	Put ice cubes in my milk and cereal.
+        81.	Dumped someone.
+        82.	Watched children’s cartoons I’m too old for.
+        83.	Forgotten about a test and studied the period before.
+        84.	Posted something on social media while drunk.
+        85.	Kissed someone on the bus.
+        86.	Salted watermelon.
+        87.	Asked someone out.
+        88.	Never have I ever given my phone number to someone I’ve never met before.
+        89.	Fell in love at first sight.
+        90.	Googled something so I’d know how to spell it.
+        91.	Read a single Harry Potter book.
+        92.	Wished to be a superhero.
+        93.	Stuck gum under a desk.
+        94.	Tried to start a band.
+        95.	Eaten a full frozen pizza by myself.
+        96.	Learned how to play a musical instrument.
+        97.	Tried a banana and mayonnaise sandwich.
+        98.	Flown in a helicopter.
+        99.	Used a fake ID to buy alcohol.
+        <item>Sat in the back of a police car.</item>
+        <item>Farted in front of someone I liked.</item>
+        <item>Gotten physically hit.</item>
+        <item>Been called to the boss’ office.</item>
+        <item>Forgotten the punchline of a joke.</item>
+        <item>Gone scuba diving.</item>
+        <item>Been in a fist fight.</item>
+        <item>Swapped ABC gum with someone.</item>
+        <item>Sang a song out loud and messed up the lyrics.</item>
+        <item>Called the police.</item>
+        <item>Accidentally sent an inappropriate text message to my mom that was intended for my girlfriend/boyfriend.</item>
+        <item>Walked in on someone in the bathroom.</item>
+        <item>Been in an ambulance.</item>
+        <item>Made money illegally.</item>
+        <item>Had someone walk in on me in the bathroom.</item>
+        <item>Felt the presence of “paranormal activity.”</item>
+        <item>Faked an illness to stay home from work.</item>
+        <item>Tried to pass a silent fart, but it came out loud instead.</item>
+        <item>Been in a car accident.</item>
+        <item>Facebook-stalked an ex.</item>
+        <item>Wet the bed after childhood.</item>
+        <item>Wished I could trade lives with someone.</item>
+        <item>Looked through my girlfriend/boyfriend’s phone without their knowledge.</item>
+        <item>Attempted martial arts moves while by myself.</item>
+        <item>Been to jail.</item>
+        <item>Jumped from an airplane.</item>
+        <item>Never have I ever got a speeding ticket.</item>
+        <item>Drove over a curb.</item>
+        <item>Faced my biggest fear.</item>
+        <item>Texted while driving.</item>
+        <item>Mistaken a man for a woman or vice versa.</item>
+        <item>Been cheated on.</item>
+        <item>Woken up in a strange place.</item>
+        <item>Picked a wedgie in public.</item>
+        <item>Been in the hospital for a serious illness.</item>
+        <item>Forgotten where I parked my car.</item>
+        <item>Called the wrong person, but pretended I meant to call them.</item>
+        <item>Gotten stitches.</item>
+        <item>Accidentally sent an inappropriate email to my boss.</item>
+        <item>Gone into the wrong restroom.</item>
+        <item>Gotten fired.</item>
+        <item>Purposely given someone the wrong phone number.</item>
+        <item>Broken a piece of furniture by sitting on it.</item>
+        <item>Taken the morning after pill.</item>
+        <item>Shaved my head bald.</item>
+        <item>Arrived somewhere late and had everyone stared at me.</item>
+        <item>Fainted in public.</item>
+        <item>Paid late fees on an overdue bill.</item>
+        <item>Had food stuck in my teeth all day.</item>
+        <item>Seen a dead body.</item>
+        <item>Fallen asleep in church.</item>
+        <item>Bought a children’s toy for myself, as an adult.</item>
+        <item>Drove drunk.</item>
+        <item>Knowingly run a red light.</item>
+        <item>Recorded video of myself singing or dancing.</item>
+        <item>Lied for a friend.</item>
+        <item>Written a book.</item>
+        <item>Greeted someone I thought was someone else.</item>
+        <item>Wrote someone a letter I never planned to send.</item>
+        <item>Taken something from work.</item>
+        <item>Screamed because of a bug.</item>
+        <item>Cried drunk tears at a bar.</item>
+        <item>Driven through an ice storm.</item>
+        <item>Played on my phone, trying to look like I’m doing something important.</item>
+        <item>Gone to bed angry.</item>
+        <item>Used someone else’s toothbrush.</item>
+        <item>Practiced public speaking in the mirror.</item>
+        <item>Punched someone in the face.</item>
+        <item>Clogged someone else’s toilet.</item>
+        <item>Stared at myself naked in the mirror.</item>
+        <item>Accused a partner of cheating.</item>
+        <item>Made up an excuse to leave a boring party early.</item>
+        <item>Smiled at someone when you realize you weren’t listening to what they were saying.</item>
+        <item>Had a near-death experience.</item>
+        <item>Lied about having an emergency to leave a bad date early.</item>
+        <item>Tried to impress a crush by seeming knowledgeable about things they liked.</item>
+        <item>Had a pregnancy scare.</item>
+        <item>Stuffed my pockets with food from a buffet to take home with me.</item>
+        <item>Refreshed over and over to see if I have any new messages.</item>
+        <item>Blocked someone on social media.</item>
+        <item>Been blocked by someone on social media.</item>
+        <item>Taken store-bought food to a party as my side dish but passed it off as my own.</item>
+        <item>Pretended to text while secretly taking a million selfies.</item>
+        <item>Threw something when I was angry and broke it.</item>
+        <item>Visited the White House.</item>
+        <item>Been obsessed with One Direction.</item>
+        <item>Hated a friend’s boyfriend/girlfriend.</item>
+        <item>Pretended not to be home when someone rang my doorbell.</item>
+        <item>Imagined my life as a sitcom and who would play me.</item>
+        <item>Had an STD scare.</item>
+        <item>Picked up a hitchhiker.</item>
+        <item>Posted a drunk status on social media.</item>
+        <item>Made someone cry.</item>
+        <item>Replied to a text pretending to be someone else.</item>
+        <item>Been bullied.</item>
+        <item>Used someone’s child to pick up a date.</item>
+        <item>Liked someone who didn’t like me back.</item>
+        <item>Gotten so mad that I threw something through a wall.</item>
+        <item>Broken the law.</item>
+        <item>Gotten my license taken away by the police.</item>
+        <item>Regifted a gift card.</item>
+        <item>Had a crush on someone else’s spouse</item>
+        <item>Been slapped across the face.</item>
+        <item>Eaten a whole pizza by myself.</item>
+        <item>Flown in a helicopter.</item>
+        <item>Played matchmaker.</item>
+        <item>Crashed a car.</item>
+        <item>Cried while watching Titanic.</item>
+        <item>Been on stage in front of a crowd.</item>
+        <item>Been a parent.</item>
+        <item>Cried for absolutely no reason.</item>
+        <item>Cried at a Pixar movie.</item>
+        <item>Lied in a job interview.</item>
+        <item>Bought a gift from a discount store and put it in a different package to make it look expensive.</item>
+        <item>Been in the back of a police car.</item>
+        <item>Smuggled food or candy into a movie theater.</item>
+        <item>Agreed with something Donald Trump said.</item>
+        <item>Gotten any artificial body enhancements.</item>
+        <item>Had a panic attack.</item>
+        <item>Thought about what type of dog I would be.</item>
+        <item>Told a lie about something I really didn’t do.</item>
+        <item>Been to the emergency room.</item>
+        <item>Lost sunglasses that I was already wearing.</item>
+        <item>Waited tables for a living.</item>
+        <item>Accidentally started a fire.</item>
+        <item>Locked my keys in my car.</item>
+        <item>Ruined a surprise party.</item>
+        <item>Been depressed.</item>
+        <item>Thrown up from drinking.</item>
+        <item>Not tipped at a restaurant.</item>
+        <item>Seen a ghost.</item>
+        <item>Had a wardrobe malfunction.</item>
+        <item>Tried to look at the sun.</item>
+        <item>Borrowed something I ended up keeping.</item>
+        <item>Thrown up on a rollercoaster.</item>
+        <item>Never have I ever made a wish at a fountain.</item>
+        <item>Broken something in a store and then walked away from it.</item>
+        <item>Walked around with toilet paper stuck to my shoe.</item>
+        <item>Accidentally swallowed a bug.</item>
+        <item>Gone skiing.</item>
+        <item>Fallen into a pool.</item>
+        <item>Cut someone in line.</item>
+        <item>Stood in line for hours to buy concert tickets.</item>
+        <item>Run out of gas on the highway.</item>
+        <item>Been inside a library.</item>
+        <item>Stood in line for hours to buy something on sale.</item>
+        <item>Had my bikini knocked off by a wave in the ocean.</item>
+        <item>Lied about my age.</item>
+        <item>Dated someone but ended up with their sibling instead.</item>
+        <item>Gotten really drunk on a first date.</item>
+        <item>Fired a gun.</item>
+        <item>Tried to break into someone’s password protected email.</item>
+        <item>Walked in on my parents when they were doing it.</item>
+        <item>Seen an elephant in real life.</item>
+        <item>Damaged someone’s car out of anger.</item>
+        <item>Accidentally butt-dialed someone.</item>
+        <item>Bought clothing online.</item>
+        <item>Borrowed something from a neighbor just to be nosey.</item>
+        <item>Burst out laughing at a really inappropriate time.</item>
+        <item>Had someone draw a caricature of me.</item>
+        <item>Been married.</item>
+        <item>Called someone the wrong name.</item>
+        <item>Owned an Xbox.</item>
+        <item>Gotten a piercing other than my ears.</item>
+        <item>Gotten to the checkout counter and realized I didn’t have my wallet.</item>
+        <item>Spent hours watching funny videos on Youtube.</item>
+        <item>Walked out of a restaurant without paying.</item>
+        <item>Messed up when making a speech in front of a lot of people.</item>
+        <item>Thought a movie was better than the book.</item>
+        <item>Not gotten my deposit back on a rental.</item>
+        <item>Had a foreign object stuck in me.</item>
+        <item>Never have I ever voted.</item>
+        <item>Heated something up in the microwave and then forgot it was in there.</item>
+        <item>Walked straight into a door.</item>
+        <item>Owned a watch.</item>
+        <item>Burned a holiday dinner.</item>
+        <item>Been embarrassed about something I did when I was drunk.</item>
+        <item>Ridden a skateboard.</item>
+        <item>Gone to a birthday party and not taken a gift.</item>
+        <item>Fallen while wearing heels.</item>
+        <item>Never have I ever seen snow.</item>
+        <item>Worked out at a public gym.</item>
+        <item>Laughed so hard, water shot out of my nose.</item>
+        <item>Sat on a public toilet.</item>
+        <item>Adopted a child.</item>
+        <item>Worn someone else’s underwear.</item>
+        <item>Had an allergic reaction to something I ate.</item>
+        <item>Tried to flee the cops.</item>
+        <item>Played a joke on someone by putting pepper in the salt shaker.</item>
+        <item>Snuck into a club.</item>
+        <item>Stolen flowers from a grave.</item>
+        <item>Stolen money from someone.</item>
+        <item>Gone to church with a hangover.</item>
+        <item>Crashed a wedding.</item>
+        <item>Had a crush on my boss.</item>
+        <item>Dated someone who was underage.</item>
+        <item>Been involved in road rage.</item>
+        <item>Bought something stolen.</item>
+        <item>Cheated on my diet.</item>
+        <item>Drank before turning 21.</item>
+        <item>Been on a dating website.</item>
+        <item>Wanted to be with anyone else.</item>
+        <item>Been turned down.</item>
+        <item>Regretted marrying you.</item>
+        <item>Dated more than one person at once.</item>
+        <item>Lied to you about how you look.</item>
+        <item>Gone speed dating.</item>
+        <item>Complained about you to my coworkers.</item>
+        <item>Hooked up with someone I met online.</item>
+        <item>Called you “the ball and chain.”</item>
+        <item>Said I love you to someone.</item>
+        <item>Cleared my phone or computer history.</item>
+        <item>Said I love you without meaning it.</item>
+        <item>Dreamt of anyone but you.</item>
+        <item>Dated someone for more than a year.</item>
+        <item>Flirted with someone else while we’ve been together.</item>
+        <item>Brought someone home to meet the parents.</item>
+        <item>Wished you would do something in the bedroom that you don’t.</item>
+        <item>Had a rebound.</item>
+        <item>Checked you out without you knowing it.</item>
+        <item>Lied about being single because I wasn’t interested in the person.</item>
+        <item>Smelled your clothing when you’re wearing them.</item>
+        <item>Used Tinder to meet a date.</item>
+        <item>Been drunk without you.</item>
+        <item>Slept with someone I wasn’t attracted to.</item>
+        <item>Wanted you to tie me up.</item>
+        <item>Peeked at someone else while they were changing.</item>
+        <item>Wanted to change something about you.</item>
+        <item>Googled sex positions to spice things up.</item>
+        <item>Thought we should have a baby (or another one).</item>
+        <item>Thought about someone else in the bedroom.</item>
+        <item>Stared at a picture of you while going solo.</item>
+        <item>Given you a sexy nickname.</item>
+        <item>Daydreamed about our wedding night.</item>
+        <item>wanted to take you on a second honeymoon.</item>
+    </string-array>
+
+</resources>
